@@ -4,6 +4,7 @@
   "description": "ui component",
   "main": "src/index.js",
   "scripts": {
+    "start": "budo demo/demo.js:bundle.js --live --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,16 @@
   "homepage": "https://github.com/SkuhalaBarbara/input-integer#readme",
   "devDependencies": {
     "budo": "^11.7.0"
+  },
+  "dependencies": {
+    "again": "^0.0.1",
+    "all": "^0.0.0",
+    "defined": "^1.0.0",
+    "dependencies": "^0.0.1",
+    "in": "^0.19.0",
+    "install": "^0.13.0",
+    "package.json": "^2.0.1",
+    "the": "^1.0.2",
+    "to": "^0.2.9"
   }
 }
