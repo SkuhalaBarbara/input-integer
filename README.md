@@ -1,4 +1,4 @@
-# input-integer
+# input-integerbs
 
 ## usage
 
