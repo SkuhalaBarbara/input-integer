@@ -1,6 +1,6 @@
 {
-  "name": "input-integer,bs",
-  "version": "0.0.1",
+  "name": "input-integerbs",
+  "version": "0.0.2",
   "description": "ui component",
   "main": "src/index.js",
   "scripts": {
@@ -31,6 +31,7 @@
     "defined": "^1.0.0",
     "dependencies": "^0.0.1",
     "in": "^0.19.0",
+    "input-integerbs": "^0.0.1",
     "install": "^0.13.0",
     "package.json": "^2.0.1",
     "the": "^1.0.2",
